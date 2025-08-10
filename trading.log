@@ -1,2 +1,0 @@
-[2025-08-08 20:12:17] INPUT={'price': 102, 'resistance': 105, 'support': 95, 'short_ma': 100, 'long_ma': 98, 'rsi': 28} -> DECISION=BUY
-[2025-08-08 20:13:59] INPUT={'price': 102, 'resistance': 105, 'support': 95, 'short_ma': 100, 'long_ma': 98, 'rsi': 28} -> DECISION=BUY
